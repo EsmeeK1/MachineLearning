@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scipy
+ipywidgets
+jupyter-dash
+plotly
+tqdm
+scikit-image
+seaborn
+historicdutchweather
+pytz
+pvlib
