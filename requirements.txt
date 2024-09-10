@@ -12,3 +12,4 @@ historicdutchweather
 pytz
 pvlib
 nbformat==5.10.4 # Required for jupyter-dash
+pylab
