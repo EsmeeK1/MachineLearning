@@ -2,6 +2,8 @@
 .devcontainer
 .vscode
 
+bijlagen/energietransitie
+
 # Python virtual environment
 .venv
 venv
