@@ -12,6 +12,5 @@ historicdutchweather
 pytz
 pvlib
 nbformat
-pylab
 scikit-learn
 tensorflow
