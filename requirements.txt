@@ -14,3 +14,4 @@ pvlib
 nbformat
 scikit-learn
 tensorflow
+opencv-python
