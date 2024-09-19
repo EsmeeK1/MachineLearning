@@ -67,6 +67,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+bijlagen/old_or_not_data
+bijlagen
+
 # Translations
 *.mo
 *.pot
