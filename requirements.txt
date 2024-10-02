@@ -15,3 +15,4 @@ nbformat
 scikit-learn
 tensorflow
 opencv-python
+setuptools
