@@ -12,6 +12,7 @@ venv
 # Data directories and files
 abiotic_data/
 abiotic_data/natuurversneller/Abiotische randvoorwaarden.xlsx
+thema's/deep_learning/dataset/
 
 # Python bytecode cache directories
 pages/__pycache__/
