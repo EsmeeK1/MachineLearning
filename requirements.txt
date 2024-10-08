@@ -18,3 +18,4 @@ opencv-python
 openpyx
 plotnine
 spacy
+keras_nlp

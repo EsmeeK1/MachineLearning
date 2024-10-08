@@ -9,6 +9,7 @@ bijlagen/energietransitie
 venv
 .env
 
+
 # Data directories and files
 abiotic_data/
 abiotic_data/natuurversneller/Abiotische randvoorwaarden.xlsx
