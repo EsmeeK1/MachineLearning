@@ -8,7 +8,8 @@ bijlagen/energietransitie
 .venv
 venv
 .env
-
+bijlagen
+bijlagen
 
 # Data directories and files
 abiotic_data/
