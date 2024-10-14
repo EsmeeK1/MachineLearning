@@ -11,6 +11,11 @@ venv
 bijlagen
 bijlagen
 
+themas\deep_learning\.devcontainer.json
+themas\deep_learning\docker
+themas\deep_learning\dataset
+themas\deep_learning\texts.txt
+
 # Data directories and files
 abiotic_data/
 abiotic_data/natuurversneller/Abiotische randvoorwaarden.xlsx
