@@ -1,6 +1,5 @@
 pandas
 numpy
-matplotlib
 scipy
 ipywidgets
 jupyter-dash
@@ -15,7 +14,6 @@ nbformat
 scikit-learn
 tensorflow
 opencv-python
-openpyx
 plotnine
 spacy
 keras_nlp
